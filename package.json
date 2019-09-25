@@ -1,0 +1,19 @@
+{
+  "name": "sp-banner-interno-component",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de Banner Interno com Vue para SharePoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trimasterweb/sp-banner-interno-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trimasterweb/sp-banner-interno-component/issues"
+  },
+  "homepage": "https://github.com/trimasterweb/sp-banner-interno-component#readme"
+}
